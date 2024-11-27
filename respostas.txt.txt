@@ -2,3 +2,5 @@ G- O merge é quando fazemos a merge?
 r: Merge é quandp pegamos todo o código de uma branch e pedimos ao git para adicionar esse código a outra branch
 
 H- o comando git é git status.
+
+J - 
